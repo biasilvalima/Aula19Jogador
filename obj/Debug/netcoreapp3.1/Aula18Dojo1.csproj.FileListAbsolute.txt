@@ -1,0 +1,13 @@
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.exe
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.deps.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.runtimeconfig.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.runtimeconfig.dev.json
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\bin\Debug\netcoreapp3.1\Aula18Dojo1.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.csprojAssemblyReference.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.csproj.CoreCompileInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.AssemblyInfoInputs.cache
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.AssemblyInfo.cs
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.dll
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.pdb
+C:\Users\biali\OneDrive\Área de Trabalho\Beatriz\Trabalhos\Senai\Aula18Dojo1\obj\Debug\netcoreapp3.1\Aula18Dojo1.genruntimeconfig.cache

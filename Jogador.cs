@@ -41,12 +41,12 @@ namespace Aula18Dojo1
                     Aposentadoria = "Você pode se aposentar";
                 }else if(Posicao == "Defesa" && idade >= 40){
                     Aposentadoria = "Você pode se aposentar";
+                }else{
+                    Aposentadoria = "Você ainda não está apto para a sua aposentadoria";
                 }
 
                 return Aposentadoria;
             }
-
-
             
     }
 }
